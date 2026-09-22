@@ -5,7 +5,7 @@ pipeline {
         DOCKERHUB_USERNAME = 'jeni2w04'
         IMAGE_NAME = 'kanban-dashboard'
         CONTAINER_NAME = 'kanban-app'
-        APP_PORT = '80'
+        APP_PORT = '8080'
         HOST_PORT = '3000'
     }
 
